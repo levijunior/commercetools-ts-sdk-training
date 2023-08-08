@@ -1,0 +1,2229 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>http://docs.commercetools.com/</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/docs/composable-commerce</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/docs/frontend</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/offering</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/graphql</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/connect</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-getting-started</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-api</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/initial-setup</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/docs/login</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/explore-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk/jvm-sdk</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk/javascript-sdk</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk/php-sdk</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-getting-started/overview</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-getting-started/studio-guide</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/using-the-site-builder</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/managing-your-team-in-the-studio</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-getting-started/developer-guide</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/frontend-components</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/extensions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/offering/premium</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/offering/sla</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/offering/sla-china</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/offering/api-coverage</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/offering/api-contract</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/offering/backups</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/offering/support</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/offering/support/severity-levels-for-products</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/offering/training</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/offering/training/cancellation-policy</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/offering/premium#expert-services</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/create-api-client</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/make-first-api-call</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/manage-customers-api</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/manage-products-api</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/using-graphql</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/discover-sdks</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/next-steps</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/dashboard</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/product-list</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/products-review-modified</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/advanced-product-search</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/product-selections</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/category-manage-product-order</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/order-list</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/quotes</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/prices</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/discounts-overview</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/product-discounts</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/cart-discounts</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/discount-templates</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/audit-log-overview</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/change-history</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/import-logs</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/product-types</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/quick-access</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/project-settings</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/api-clients</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/accounts</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/projects</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/organizations</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/teams</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/user-permissions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/managing-custom-applications</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/single-sign-on</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/api-tutorial</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/curl-cheatsheet</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/GDPR</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/mobile-spa</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/anonymous-session</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/order-edit</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/extensions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/subscriptions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/subscriptions-eventbridge</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/store-specific-external-search</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/best-practices-performance</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/faqs</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/categories</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/product-bundle-api</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/nested-types</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/custom-types</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/custom-fields-prices</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/composable-custom-types</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/assets</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/review-ratings</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/shipping-method-with-predicate</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/shipping-rate</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/multiple-shipping-addresses</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/company-specific-products-pricing</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/export-products</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/product-type-export</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/delete-all-products</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/stock-import</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/integration-guides/azure-ad</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/integration-guides/okta</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/tutorials/static/6323e4c4ca0f078bf85d2c48eb8d4983/4352a/impex.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/releases</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/general-concepts</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/limits</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/types</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/errors</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/predicates/query</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/predicates/predicate-operators</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/predicates</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/ml</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/authorization</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/scopes</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/categories</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/categoryRecommendations</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/similarProducts</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/imageSearch</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/products</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/product-selections</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/productProjections</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/products-search</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/products-suggestions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/inventory</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/reviews</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/attribute-groups</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/taxCategories</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/productDiscounts</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/cartDiscounts</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/discountCodes</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/standalone-prices</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/carts-orders-overview</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/shoppingLists</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/me-shoppingLists</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/carts</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/me-carts</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/shippingMethods</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/zones</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/payments</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/me-payments</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/orders</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/me-orders</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/order-edits</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/orders-import</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/order-search</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/quotes-overview</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/quote-requests</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/me-quote-requests</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/staged-quotes</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/quotes</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/me-quotes</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/customers-overview</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/customers</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/me-profile</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/customerGroups</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/business-units</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/me-business-units</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/associates-overview</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/associate-roles</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/associate-carts</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/associate-orders</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/associate-quote-requests</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/associate-quotes</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/associate-business-units</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/history/change-history</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/history/change-types</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/client-logging</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/project</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/api-clients</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/channels</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/states</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/stores</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/productTypes</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/types</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/custom-fields</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/custom-objects</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/api-extensions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/subscriptions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/messages</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/general-concepts#regions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/general-concepts#reference-expansion</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/general-concepts#optimistic-concurrency-control</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/general-concepts#query-features</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/offering/api-contract#public-beta</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/offering/api-contract#closed-beta</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/products#product</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/products#productvariant</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/productTypes#attributetype</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/types#fieldtype</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/types#reference</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/types#keyreference</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/types#references</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/types#customfieldreferencetype</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/types#customfieldsettype</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/customers#customer</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/productTypes#attributereferencetype</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/productTypes#attributesettype</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/releases</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/overview</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/best-practices</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/hosts-and-authorization</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/common-type</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/error</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/processing-state</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/import-container</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/import-operation</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/import-summary</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/category</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/product-type</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/product</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/product-draft</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/product-variant</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/product-variant-patch</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/inventory</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/price</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/standalone-price</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/order</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/order-patch</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/customer</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/import-export/type</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk/java-sdk-getting-started</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk/java-sdk-middleware</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk/java-sdk-customization</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk/java-sdk-migrate</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk/java-sdk-previous-versions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk/js-sdk-getting-started</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk/js-sdk-middleware</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk/js-sdk-previous-versions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk/php-sdk-getting-started</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk/php-sdk-previous-versions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk/dotnet-sdk</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk/dotnet-sdk-getting-started</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk/dotnet-sdk-previous-versions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk/observability</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk/sdk-example-code</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk/sdk-example-applications</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk/swift-sdk</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk/postman</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/releases</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/what-is-a-custom-application</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/getting-started</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/maintenance-guidelines</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/help-needed</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/concepts/oauth-scopes-and-user-permissions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/concepts/merchant-center-proxy-router</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/concepts/merchant-center-api</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/concepts/integrate-with-your-own-api</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/concepts/deployment-previews</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/development</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/development/data-fetching</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/development/ui-components</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/development/forms</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/development/page-content-layouts</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/development/notifications</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/development/testing</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/development/translations</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/development/permissions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/development/human-readable-page-title</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/development/adding-typescript</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/development/going-to-production</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/deployment-examples</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/deployment-examples/vercel</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/deployment-examples/netlify</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/deployment-examples/render</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/deployment-examples/aws-s3-cloudfront</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/deployment-examples/azure-static-web-apps</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/deployment-examples/azure-blob-storage</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/deployment-examples/surge</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/deployment-examples/cloudflare</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/deployment-examples/google-cloud-static-web-apps</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/api-reference/cli</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/api-reference/application-config</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/api-reference/create-mc-app</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/api-reference/custom-webpack-config</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/api-reference/commercetools-frontend-actions-global</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/api-reference/commercetools-frontend-application-shell</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/api-reference/commercetools-frontend-application-shell-connectors</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/api-reference/commercetools-frontend-application-components</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/api-reference/commercetools-frontend-constants</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/api-reference/commercetools-frontend-cypress</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/custom-applications/api-reference/commercetools-frontend-permissions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/connect/releases</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/connect/concepts</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/connect/hosts-and-authorization</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/connect/certification</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/connect/common-types</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/connect/errors</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/connect/connectors-staged</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/connect/connectors</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/connect/deployments</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/connect/deployment-logs</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/connect/getting-started</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/connect/development</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/connect/convert-existing-integration</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/connect/steps-locally-test-service</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/connect/steps-locally-test-event</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/connect/how-to-debug-a-deployment</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/connect/getting-started#create-a-connector</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/connect/getting-started#deploy-a-connector</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-getting-started/decisions-to-consider</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-getting-started/moving-to-commercetools-frontend</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-getting-started/project-set-up</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-getting-started/development-concepts</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-getting-started/architecture-and-stack</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-getting-started/developing-with-commercetools-frontend</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/releases</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/accessing-the-studio</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/media-in-the-studio</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/using-components-in-the-studio</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/redirects-in-the-studio</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/managing-project-settings-in-the-studio</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/using-the-schema-editor</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/using-environments-in-the-studio</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/page-folders</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/page-versions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/duplicating-page-versions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/scheduling-page-versions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/using-the-page-builder</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/scheduling-navigation-changes</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/previewing-page-versions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/frontend-component-settings</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/using-the-markdown-editor</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/creating-anchor-points</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/locales-and-translations-in-the-studio</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/urls-in-multi-language-projects</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/using-the-data-source-filter-editor</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/dynamic-pages</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/using-dynamic-pages</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/using-fecl</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/page-templates</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/component-groups</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/using-the-developer-area-in-the-studio</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/using-schemas-in-the-studio</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/extending-page-folder-schema</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/extending-the-project-schema</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/using-deployment-in-the-studio</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/using-data-sources-in-the-studio</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/sandboxes-in-the-studio</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/using-dynamic-pages-in-the-studio</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/releases</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/styling-your-site</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/sitemaps</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/client-side-routing-for-dynamic-pages</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/creating-a-full-width-component</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/how-to-slice-a-commerce-site-into-components</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/renaming-a-frontend-component-field</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/code-splitting</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/logging</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/developing-your-site</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/cli</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/cli-what-and-why</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/cli-troubleshooting</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/sandboxes</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/filesync-troubleshooting</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/schemas</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/schema-icons</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/coding-guide</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/api-hub-configuration</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/developing-a-data-source-extension</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/developing-an-action-extension</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/calling-an-action</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/developing-a-dynamic-page-extension</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/dynamic-configuration-from-the-browser</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/dynamic-filters-for-data-sources</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/using-a-session</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/using-the-commercetools-extension</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/internationalization</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/creating-a-frontend-component</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/creating-a-configurable-frontend-component</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/creating-frontend-component-with-a-data-source</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/updating-a-frontend-component-schema</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/working-with-links</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/the-context</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/ecommerce-types</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/frontend-component-library</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/account-details</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/cart</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/checkout</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/header</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/footer</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/register</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/login</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/markdown</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/newsletter</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/product-listing</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/product-slider</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/product-details</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/tile</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/checkout-success</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/wishlist</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/showcase</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/spacer</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/frontend-sdk</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/extending-the-frontend-sdk</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/developing-your-extensions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/deployment</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/continuous-integration-ci</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/go-live-preparation</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/integrations-overview</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/adyen</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/amplience</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/contentful</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/contentstack</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/dynamic-yield</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/the-good-store</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/adyen-good-store</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/algolia</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/google-tag-manager</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/sendgrid</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-api/types</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-api/context</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-api/page</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-api/preview</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-api/action</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/static/4b68ab8d1d56c4ad7ea2485b7d9a14ff/d6602/email_confirmation.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/static/4f34430b263b904f1d71254237885c6b/0ffd9/account_setup.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/static/58a3c21e741ac6cf4a97ab3422f8f9d1/df5d6/select_project_type.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/static/81734ec96a40e02559d3ecafe69c539d/6f969/create_new_project.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/static/309b31b4af87b40ffdb7e9488ae0309f/79538/access_project.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/static/cb794c651df68400d58914becb0adb18/5c4aa/initial_setup_finished.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/docs</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/initial-setup#create-a-project</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/static/65dc4de51dd81424d1795a7cdd473cf8/0e758/project-settings.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/static/2781961e05d820d2600c4629f40f94a1/b4472/localizable-fields.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/static/84e763cd27650badb3e4a7987fb0cf86/4969b/Countries.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/static/c45bcefb45e7a341f86e117d04c90922/d5ef8/Zones.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/static/c8c6fb7390d59c719bbd4a286925c195/36405/tax-categories.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/static/52647b8b133d5829d499d45c892c26c9/c2d13/shipping-methods.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/static/023cde84281aedd5f5c50a24238ec09f/20a65/channels.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/static/68540d1ca1f3d4cca597796da7a9aac1/4969b/Order.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/organizations-and-projects/overview</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/organizations-and-projects/project-structure</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/organizations-and-projects/organizations-and-teams</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/organizations-and-projects/users</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/organizations-and-projects/projects</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/organizations-and-projects/learning-check</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/product-modeling/overview</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/product-modeling/modeling-products</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/product-modeling/product-types</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/product-modeling/products</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/product-modeling/best-practices</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/product-modeling/learning-check</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/pricing-setup/overview</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/pricing-setup/types-of-prices</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/pricing-setup/managing-prices</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/pricing-setup/best-practices</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/pricing-setup/learning-check</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/customer-management/overview</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/customer-management/customers</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/customer-management/customer-groups</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/customer-management/learning-check</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/extensibility/overview</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/extensibility/data-model-extensions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/extensibility/behavior-extensions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/extensibility/mc-extensions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/extensibility/learning-check</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/shipping-methods/overview</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/shipping-methods/data-structure</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/shipping-methods/manage-shipping-methods-and-zones</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/shipping-methods/multiple-zones-and-currencies</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/shipping-methods/predicates</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/learning-composable-commerce-administrator/shipping-methods/learning-check</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/sdk/java-sdk-middleware#internalloggermiddleware</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-getting-started/static/eadda097b4cd9210840191b9f4507be8/dcef9/fdec66b-ThisIsFrontastic.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-getting-started/static/ea4e3addc182d1c3cc4a363678ff14b0/f581c/studio-login.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/static/4f2fd06faaa85ec504d8ac51c9f69926/d6853/9e39ae4-Click_the_site_builder_icon_on_the_dashboard.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/static/e4f422bce702a13ac09945f98ebff338/f581c/debf494-Site_builder_.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/static/6ea366bd029c9634aa364d74ed1fb9be/f581c/fa83826-Selected_page_folder_with_selected_page_version_and_preview.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/static/6f8643f2dd1aa976fc55ea8ab6568307/f581c/119414e-Page_versions_.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/static/4f7da80c4da0e17211b16c016be4f140/f581c/b57c2a6-Page_version_preview_in_site_builder.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/static/edd70f346f1b57a127d54050e04d9419/f581c/8987f11-Click_team_on_the_dashboard.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/static/ce9b2319d12b9780f01eba1c0cd19a1a/f581c/3b3f320-Team_settings.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/static/14582b3b00af5761af2e205863f0cbf1/be061/55c78ed-8799ba3-Frontastic_studio_dashboard_new.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/static/d55399cca351c66a431a42647640313f/88b57/4e1839d-50e1ed5-Admin_and_lead_editor_page_folder_editing_1.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/static/e66b0cb887081e779b1a006b85948444/be061/ecafd1b-a392893-Frontastic_studio_dashboard_new_editor.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/static/51c0fec3a913f799d0f81acaf33fd038/88b57/25283a5-50e1ed5-Admin_and_lead_editor_page_folder_editing.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/static/d55399cca351c66a431a42647640313f/88b57/a2b22eb-50e1ed5-Admin_and_lead_editor_page_folder_editing_1.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/static/3e94744e043e41d8d78c8db7b27f7dae/88b57/e3f128f-fa619b9-Editor_page_folder_editing.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/static/7c2870dfa73df29a60411f9c2cf560cc/f581c/75f7643-Click_add_new_user.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/static/72025f23fdc8e7bc9030528c90910992/d6853/0d17784-Input_an_email_address_select_a_role_then_click_save.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/static/e65603cdf31cd6e744df2148c19cd26a/f581c/c8924f3-resend_invitation.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/static/b825804dfd006de30490c39861a20a1b/d6853/772d426-Change_role_by_selecting_the_dropdown.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/static/a3c41a85cbe04aa2019d0511220982b4/f581c/f658fd5-Delete_user_using_the_delete_icon.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/static/20585226bb6920b10ff8a78429fe87e0/f581c/2e088fb-Click_tickbox_next_to_user_name.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-studio/static/93875621f68308f41e8047ff82d8e9b1/f581c/e6bf407-Confirm_user_deletion.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/static/f5a11f751daf972ee23fd6fdb6c27496/44bc4/8a26fda-cli-dashboard.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/static/02b28f330ac8b4eb88b18d6afd663e79/68acd/9e02362-backend-logs.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/static/1fa8855beef469d37aa6db7a5cfd4a0f/88463/b916d53-filesync-logs.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/frontend-development/static/b23dd1dc0b3bf1fe17c218009f449c75/5abcb/832953e-sandbox-logs.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/offering/removed-functionality</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/general-concepts#security</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/general-concepts#data-erasure-of-personal-data</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/offering/support#severity-levels</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/offering/training/prices/americas</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/offering/training/prices/emea</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/offering/training/prices/apac</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/static/f2aa03e581457f62dce95f16f6e840e8/c2d13/developer_settings.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/static/389e54e69a474063dc402a604fe6e262/b3931/api_client_name.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/static/36ce642b6660d2d8f914f5e354c95994/c2d13/api_client_scopes.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/static/4375a1ee261788e271cf198ce2ceaf58/c2d13/client_credential_flow.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/static/2b13296a56a90727f80072faf8a3b916/c5ece/environment_variables.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/create-api-client#view-your-api-client-configuration</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/general-concepts#hosts</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/general-concepts#sorting</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/general-concepts#limit</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/general-concepts#offset</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/make-first-api-call#get-your-access-token</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/customers#customerdraft</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/customers#set-first-name</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/customers#set-last-name</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/general-concepts#pagedqueryresult</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/customers#update-actions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/customers#set-date-of-birth</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/customers#add-address</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/productTypes#producttypedraft</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/products#productdraft</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/types#localizedstring</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/types#resourceidentifier</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/products#update-actions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/products#add-productvariant</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/products#set-product-description</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/products#change-master-variant</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/static/274b6acbed8227b1625aee33b0f8fae3/00fb1/graphql_choose_project.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/static/822ae9276f733032cea432e166b5482b/647f4/graphql_add_categories.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/getting-started/static/5950228073e082c5fcd2982f8896c8d8/4ddeb/graphql-mutation-autocomplete.png</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/feed.xml</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-08-02-audit-log-now-tracks-business-unit-changes</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/change-history#change-history-table</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/change-history#filter-by-column</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/change-history#contextual-views</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-07-31-update-validity-dates-of-existing-standalone-prices-in-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-07-24-introduced-product-pinning-in-the-product-list</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/product-list#bulk-product-actions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-07-20-update-price-tiers-of-existing-standalone-prices-in-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-07-17-standalone-prices-are-now-supported-in-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/prices#standalone-price</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-07-13-added-the-product-selections-column-to-the-product-list</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-07-06-new-projects-can-now-utilize-pre-filled-sample-data</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-07-06-added-support-for-geolocation-fields-on-channels</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/project-settings#channels</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-07-05-introduced-b2b-order-creation</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/associates-overview#b2b-resources</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/associates-overview#business-unit</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-07-05-introduced-store-specific-cart-discounts</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-07-04-replaced-the-order-total-column-in-the-order-list-with-order-final-total-gross</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-06-29-added-support-for-multiple-shipping-methods-and-addresses-on-orders</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-06-20-added-support-for-product-selection-of-type-exclusion-in-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/product-selections#include-or-exclude-products-and-product-variants-from-a-product-selection</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-05-30-added-support-for-custom-fields-on-customers-billing-and-shipping-addresses</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-05-23-reorder-storefront-products-within-a-category</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/products#categoryorderhints</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-05-22-self-learning-content-about-administering-composable-commerce</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-05-11-introduced-editing-permissions-for-attribute-groups</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/product-types#attribute-groups</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/user-permissions#product-action-rights</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-05-09-redesigned-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-05-02-introduced-business-units</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-04-13-audit-log-available-in-aws-regions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-03-30-added-custom-fields-on-shipping-methods</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/project-settings#shipping-methods</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-03-06-introduced-custom-application-deployment-previews</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/managing-custom-applications#adding-a-deployment-preview</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-03-01-aggregates-dashboard-widget-removal</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2023-02-10-introduced-sidebar-filter-editing-in-the-product-list</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/product-list#search-filters</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2022-12-23-introduced-configurable-sso-session-timeout</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/single-sign-on#configure-sso-in-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2022-12-06-introduced-quotes</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2022-11-10-introduced-countries-to-stores</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/project-settings#stores</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/releases/2022-11-10-introduced-countries-to-stores</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2022-11-03-organize-attributes-into-attributes-groups</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2022-09-28-audit-log-now-tracks-quote-requests-staged-quotes-and-quotes-in-change-history</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2022-08-15-include-or-exclude-product-variants-from-a-product-selection</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2022-07-28-improved-availability-of-discount-search-filters</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/discounts-overview#search-filters</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2022-07-21-dashboard-time-zone-selector</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/dashboard#time-zone-settings</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2022-07-20-discount-list-search-now-supports-additional-filters</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2022-07-12-audit-log-now-tracks-product-selection-changes</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2022-06-30-introduced-search-improvements-for-discounts</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2022-06-29-bulk-assign-products-to-product-selections</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2022-06-21-introduced-discount-templates</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/discount-templates#create-a-discount-via-discount-template</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2022-06-14-create-api-clients-with-scopes-for-standalone-prices</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/api-clients#create-an-api-client</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/scopes#manage_standalone_pricesprojectkey</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2022-06-08-order-list-search-now-supports-filtering-for-custom-fields</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/order-search#custom-fields</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/order-list#search-filters</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2022-03-24-added-column-and-filter-for-stores-to-change-history</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2022-03-07-custom-types-and-fields-on-product-selections</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2022-03-01-add-products-to-product-selections</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2022-02-15-redesigned-product-types-section</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2022-01-26-my-views-for-order-lists</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2022-01-25-set-up-product-selections</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2022-01-18-dashboard-available-in-aws-regions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2021-12-28-introduced-order-search</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/order-list#basic-order-search</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/order-list#advanced-order-search</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2021-12-23-monitor-import-progress-performed-by-the-import-api</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2021-12-06-export-dashboard-view-as-a-report</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/dashboard#export-report</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2021-12-02-audit-log-now-tracks-custom-object-changes</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2021-10-26-exclude-changes-initiated-by-background-processes-from-audit-log-results</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/change-history#exclude-changes-initiated-by-background-processes</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2021-10-21-resize-dashboard-widgets</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/dashboard#resize-widgets</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2021-10-04-bulk-edit-categories-from-the-product-list</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2021-09-29-reserved-word-for-project-key</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/projects#create-a-project</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2021-07-09-changed-activation-of-duplicated-discounts</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/cart-discounts#duplicate-a-cart-discount</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/product-discounts#duplicate-a-product-discount</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2021-06-24-change-layout-settings-for-the-list-of-stores</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2021-05-05-select-inventory-mode-during-order-creation</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/carts#inventorymode</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2021-03-15-track-changes-on-your-project-with-audit-log</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2021-03-03-added-settings-for-storefront-search-configuration</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2021-02-10-new-configurable-dashboard-widget</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2021-02-05-added-fixed-price-cart-discounts</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2021-02-04-new-total-orders-configurable-dashboard-widget</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2021-01-11-merchant-center-has-changed-its-url</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-12-14-custom-types-and-fields-on-stores</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-11-24-pickers-for-attributes-of-type-reference</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-11-06-fine-grained-search-in-orders-and-customers</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-10-21-my-views-is-available-for-lists-in-discounts</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-10-16-table-layout-settings</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-10-15-improved-keyboard-accessibility-in-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-09-18-dashboard-update-with-customizable-views-widgets-and-performance</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-09-08-notification-when-new-projects-are-reaching-limits-on-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/releases/2020-07-08-collection-limits</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-08-26-new-table-component-available-allover-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-08-17-configure-your-stores-inventory-supply-channels</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-07-14-configure-your-stores-product-distribution-channels</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-07-06-resizeable-table-columns</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-07-03-create-api-clients-with-manage-my-profile-scope-for-specific-stores</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/scopes#manage_my_profileprojectkeystorekey</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-06-17-pinned-attributes-are-removed</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-05-06-old-interface-of-the-product-list-expires</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-05-05-create-api-clients-with-manage-categories-or-view-categories-scope</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-03-27-localized-description-for-shipping-methods-in-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/releases/2020-03-03-add-localized-shipping-method-description</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-03-17-new-oauth-scopes-available-when-creating-api-clients</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/releases/2020-03-16-oauth-scopes</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-03-13-configure-store-languages</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-02-11-redesigned-product-list-and-product-search</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-02-03-add-stores-to-existing-customers</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-02-03-customize-the-merchant-center-with-custom-applications</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-02-03-order-action-rights-in-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2020-01-30-change-order-of-project-languages</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-12-18-conditional-permissions-to-limit-access-to-customers-to-specific-stores</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-12-18-filter-orders-on-the-order-list-by-customer-group-in-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-12-16-cart-predicate-functions-with-more-than-one-condition</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-12-16-stores-in-add-order-flow</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-11-06-beta-support-for-single-sign-on-in-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-11-05-channel-selection-during-order-placement-in-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-11-04-conditional-permissions-to-limit-access-to-orders-to-specific-stores</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-10-31-manage-stores-in-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-09-12-improvement-in-discount-rule-creation</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-09-09-product-action-rights-in-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-08-30-message-activation-in-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-08-29-assign-customers-to-a-store-in-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-08-09-end-of-life-announcement-admin-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-08-08-column-manager-for-variants-price-list</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-07-25-create-api-clients-with-stores-permissions</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-07-18-manage-team-permissions-in-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-07-17-filter-projects-by-organization</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-07-11-delete-your-account-in-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-07-03-permissions-upgrade-on-july-18-2019</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-06-13-custom-types-and-fields-on-product-prices</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/types#price</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-06-13-manage-organizations-and-teams</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-06-13-redesigned-manage-the-price-view</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-06-05-saved-custom-views</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-06-03-manage-orders-by-store</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-05-06-merchant-center-signup</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-04-24-manage-projects-in-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-04-08-redesigned-login-and-reset-password-pages</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-03-27-manage-additional-project-settings</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-03-20-cart-discount-rule-builder</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-03-11-sorting-by-discount-name-and-type-on-product-and-cart-discounts</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-02-20-welcome-to-the-welcome-page</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-02-01-added-support-for-high-precision-tier-prices</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/types#highprecisionmoney</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-01-24-added-support-for-high-precision-prices</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2019-01-18-high-precision-prices</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-11-29-quick-access-in-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-11-20-introduced-new-order-list-filtering-options</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-11-14-merchant-center-in-spanish</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-10-15-quick-filter-for-orders-list</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-10-10-my-views-for-customer-list</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-10-01-custom-types-on-orders-and-customers</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-09-27-my-views-for-order-list</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-09-20-channels</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-08-21-add-order-flow-with-country-specific-pricing</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-08-16-product-types</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-08-14-order-search-and-filter-improvements</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-08-08-copy-order</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-06-19-manage-api-clients</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-06-19-shipping-methods-and-rates</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-05-29-create-order-for-projects-with-multiple-currencies</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-05-29-filtering-of-customer-list</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-05-29-formatting-of-time-stamps-and-numbers</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-05-29-timezone-of-time-stamps</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-05-04-bugfix-saving-changes-after-changing-validfrom-validuntil-on-discount-codes</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-04-26-redeemed-discount-codes</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-04-25-added-support-for-price-tiers</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/types#pricetier</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-04-25-create-discount-codes-within-cart-discounts-view</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-04-18-sorting-by-valid-from-or-until-on-discount-codes</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-04-11-more-customer-contact-details-under-orders</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-04-05-quickfix-pagination</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-03-22-bugfix-for-validfrom-validuntil-on-discount-codes</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-03-22-returns</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/states#stateroleenum</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-03-08-project-settings-can-now-be-managed-from-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-03-02-discount-code-groups</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/discountCodes#discountcode</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-02-23-bulk-deletion-and-de-activation-of-discount-codes</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-02-21-review-modified-products-in-the-merchant-center</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-01-26-discount-code-search-available</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-01-19-added-custom-fields-on-cart-discounts-and-discount-codes</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-01-12-add-orders</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2018-01-12-multibuy-discounts-bogo-available-in-mc</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2017-12-19-cart-discount-and-discount-code-improvements</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/cartDiscounts#cartdiscountvaluegiftlineitemdraft</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2017-12-08-stacking-mode-for-cart-discounts</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/api/projects/cartDiscounts#stackingmode</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2017-12-01-order-filtering-and-cart-discounts-stacking</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2017-11-14-column-manager-for-orders</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2017-11-14-order-filtering-new-options</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2017-11-10-custom-fields-for-customers-orders-and-line-items</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2017-09-29-export-from-the-products-list</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2017-09-15-product-discount-rule-builder-ui-controls</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2017-09-06-release-notes-06-09-2017-1</loc>
+</url>
+<url>
+  <loc>http://docs.commercetools.com/merchant-center/releases/2017-09-06-release-notes-06-09-2017-2</loc>
+</url>
+</urlset>
